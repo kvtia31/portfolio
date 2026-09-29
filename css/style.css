@@ -1,0 +1,21 @@
+h1 {
+color: #ff0000;
+ font-size: 23px;
+ font-family: Verdana,sans-serif;
+   }
+td {
+  background-color: #f4f6f8;
+   }
+.gauche {
+  background-color: #f1ff71;
+  }
+.annee {
+  font-size: 30px;
+       }
+
+#menu  {
+  color: #1f4e79;
+  font-size: 23px;
+  font-weight:bold;
+       }
+
